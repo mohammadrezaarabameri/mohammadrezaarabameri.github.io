@@ -45,11 +45,17 @@ languages:
       #  link:
 
 career-profile:
-    title: languages
+    title: education
     summary: |
-      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field, under the supervision of Bjoern Ommer.
-      Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
+    - degree: Masters - Computer Engineering
+      university: Payam Noor University , Semnan, Iran
+      time: 2020 - current
+      details: |
+     
+    - degree: diploma - Math and Physics
+      university: Shariati High School , Semnan , Iran
+      time: 2013 - current
+      details: |
 
 #news:
   #  title: News
