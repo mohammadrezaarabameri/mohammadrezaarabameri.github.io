@@ -20,7 +20,6 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@eng_arabameri'
-    quera: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
    #  stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
    #  goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,8 +34,8 @@ quera:
       #- idiom: German
         #level: Colloquial
 
-    quera:
-      - item: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
+    #quera:
+    #  - item: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
        # link:
 
      # - item: Basketball
