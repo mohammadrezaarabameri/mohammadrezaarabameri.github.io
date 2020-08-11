@@ -70,6 +70,15 @@ news:
       time: 2013 - current
       details: |
       
+news:
+    title: languages
+    intro: |
+        idiom: Persian
+        level: Fluent
+
+        idiom: English
+        level: Medium
+        
   #  posts:
         #- time: June 2020
           # title: Outstanding Reviewer at CVPR 2020
