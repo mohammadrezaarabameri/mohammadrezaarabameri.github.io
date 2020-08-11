@@ -44,11 +44,11 @@ quera:
       #- item: Biking
       #  link:
 
-newss:
-    title: education
-    intro: |
-     Experienced Technical Support Specialist with a demonstrated history of working in the information technology and services industry. Skilled in Dynamics 365, Virtualization, Storage, Customer Service, and Microsoft Windows Server. Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science from Shahid Beheshti University.
-     https://quera.ir/profile/faribampr
+#newss:
+    #title: education
+    #intro: |
+     #Experienced Technical Support Specialist with a demonstrated history of working in the information technology and services industry. Skilled in Dynamics 365, Virtualization, Storage, Customer Service, and Microsoft Windows Server. Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science from Shahid Beheshti University.
+    # https://quera.ir/profile/faribampr
 
 news:
     title: education
@@ -68,6 +68,8 @@ news:
       time: 2013 - current
       
       details: |
+      
+     quera: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
       
 publications:
     title: languages
@@ -355,6 +357,5 @@ skills:
      # - name: C/C++
        # level: 75%
 
-footer: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
->
+footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
