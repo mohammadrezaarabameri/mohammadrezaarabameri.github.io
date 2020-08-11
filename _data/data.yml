@@ -108,7 +108,7 @@ news:
         #   title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
-    degree: Masters - Computer Engineering
+    - degree: Masters - Computer Engineering
       university: Payam Noor University , Semnan, Iran
       time: 2020 - current
       details: |
