@@ -44,18 +44,11 @@ quera:
       #- item: Biking
       #  link:
 
-#career-profile:
-    #title: education
-    #summary: |
-     #degree: Masters - Computer Engineering
-      #university: Payam Noor University , Semnan, Iran
-      #time: 2020 - current
-      #details: |
-     
-     #degree: diploma - Math and Physics
-      #university: Shariati High School , Semnan , Iran
-      #time: 2013 - current
-      #details: |
+career-profile:
+    title: education
+    summary: |
+     Experienced Technical Support Specialist with a demonstrated history of working in the information technology and services industry. Skilled in Dynamics 365, Virtualization, Storage, Customer Service, and Microsoft Windows Server. Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science from Shahid Beheshti University.
+     https://quera.ir/profile/faribampr
 
 news:
     title: education
@@ -281,10 +274,10 @@ education:
      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    #assignments:
+     # - title: Velocity
+      #  link: "#hook"
+      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       #- title: DevStudio
         #link: "#"
