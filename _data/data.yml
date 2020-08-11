@@ -44,12 +44,12 @@ languages:
       #- item: Biking
       #  link:
 
-#career-profile:
-   # title: Career Profile
-    #summary: |
-    #  After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-     # I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field, under the supervision of Bjoern Ommer.
-     # Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
+career-profile:
+    title: languages
+    summary: |
+      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
+      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field, under the supervision of Bjoern Ommer.
+      Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
 
 #news:
   #  title: News
