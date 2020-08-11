@@ -25,10 +25,10 @@ sidebar:
    #  goodreads: # Number-Username, e.g. 123456-alandoe
 
 languages:
-      - idiom: Persian
+        idiom: Persian
         level: Fluent
 
-      - idiom: English
+        idiom: English
         level: Medium
 
       #- idiom: German
@@ -70,6 +70,16 @@ news:
       time: 2013 - current
       details: |
     
+    
+    news:
+    title: languages
+    intro: |
+        idiom: Persian
+        level: Fluent
+
+        idiom: English
+        level: Medium
+      
   #  posts:
         #- time: June 2020
           # title: Outstanding Reviewer at CVPR 2020
@@ -108,7 +118,7 @@ news:
         #   title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
-    - degree: Masters - Computer Engineering
+    degree: Masters - Computer Engineering
       university: Payam Noor University , Semnan, Iran
       time: 2020 - current
       details: |
