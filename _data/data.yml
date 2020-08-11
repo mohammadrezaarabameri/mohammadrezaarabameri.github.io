@@ -44,18 +44,18 @@ languages:
       #- item: Biking
       #  link:
 
-career-profile:
-    title: education
-    summary: |
-     degree: Masters - Computer Engineering
-      university: Payam Noor University , Semnan, Iran
-      time: 2020 - current
-      details: |
+#career-profile:
+    #title: education
+    #summary: |
+     #degree: Masters - Computer Engineering
+      #university: Payam Noor University , Semnan, Iran
+      #time: 2020 - current
+      #details: |
      
-     degree: diploma - Math and Physics
-      university: Shariati High School , Semnan , Iran
-      time: 2013 - current
-      details: |
+     #degree: diploma - Math and Physics
+      #university: Shariati High School , Semnan , Iran
+      #time: 2013 - current
+      #details: |
 
 news:
     title: education
@@ -70,7 +70,7 @@ news:
       time: 2013 - current
       details: |
       
-news:
+career-profile:
     title: languages
     intro: |
         idiom: Persian
