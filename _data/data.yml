@@ -60,41 +60,54 @@ languages:
 news:
     title: education
     intro: |
-     degree: Masters - Computer Engineering.
-      university: Payam Noor University , Semnan, Iran.
-      time: 2020 - current.
+     degree: Masters - Computer Engineering
+     
+      university: Payam Noor University , Semnan, Iran
+      
+      time: 2020 - current
+      
       details: |
      
-     degree: diploma - Math and Physics.
-      university: Shariati High School , Semnan , Iran.
-      time: 2013 - current.
+     degree: diploma - Math and Physics
+     
+      university: Shariati High School , Semnan , Iran
+      
+      time: 2013 - current
+      
       details: |
       
 publications:
     title: languages
     intro: |
-     idiom: Persian.
+     idiom: Persian
+     
       level: Fluent
 
      idiom: English
+     
       level: Medium
 
 projects:
     title: skills
     intro: >
       name: Python
+      
        level: 80%
 
       name: java
+      
        level: 60%
 
       name: c++
+      
        level: 60%
 
       name: photoshop
+      
        level: 50%
 
       name: network+
+      
        level: 70%
     
   #  posts:
