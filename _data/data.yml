@@ -70,14 +70,14 @@ news:
       time: 2013 - current
       details: |
       
-posts:
+publications:
     title: languages
     intro: |
-        idiom: Persian
-        level: Fluent
+     idiom: Persian
+      level: Fluent
 
-        idiom: English
-        level: Medium
+     idiom: English
+      level: Medium
         
   #  posts:
         #- time: June 2020
