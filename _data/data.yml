@@ -47,12 +47,12 @@ languages:
 career-profile:
     title: education
     summary: |
-    - degree: Masters - Computer Engineering
+     degree: Masters - Computer Engineering
       university: Payam Noor University , Semnan, Iran
       time: 2020 - current
       details: |
      
-    - degree: diploma - Math and Physics
+     degree: diploma - Math and Physics
       university: Shariati High School , Semnan , Iran
       time: 2013 - current
       details: |
