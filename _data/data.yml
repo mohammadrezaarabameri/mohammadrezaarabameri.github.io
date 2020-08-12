@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: mrameri313@gmail.com
-    phone: +989199985002
+    phone: 09199985002
     #website: bbrattoli.github.io/publications/ #do not add http://
     #linkedin: biagiobrattoli
     github: mohammadrezaarabameri
@@ -87,23 +87,23 @@ projects:
     intro: |
      name: python
      
-      level: 80%
+      -level: 80%
 
-     idiom: java
+     |name: java
      
-      level: 60%
+      -level: 60%
        
-      - name: java
+       |name: java
+        -level: 60%
+
+       |name: c++
         level: 60%
 
-      - name: c++
-        level: 60%
+       |name: photoshop
+        -level: 50%
 
-      - name: photoshop
-        level: 50%
-
-      - name: network+
-        level: 70%
+       |name: network+
+        -level: 70%
 
 #quera: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
     
