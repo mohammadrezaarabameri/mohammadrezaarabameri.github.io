@@ -86,7 +86,7 @@ projects:
     title: skills
     intro: |
      name: python
-    intro: |
+     
       - level: 80%
 
      | name: java
