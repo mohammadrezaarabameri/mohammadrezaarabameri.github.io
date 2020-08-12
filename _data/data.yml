@@ -24,12 +24,12 @@ sidebar:
     # codewars:
    #  goodreads: # Number-Username, e.g. 123456-alandoe
 
-quera:
-      - idiom: Persian
-        level: Fluent
+#quera:
+      #- idiom: Persian
+        #level: Fluent
 
-      - idiom: English
-        level: Medium
+     # - idiom: English
+        #level: Medium
 
       #- idiom: German
         #level: Colloquial
@@ -84,7 +84,7 @@ publications:
 
 projects:
     title: skills
-    intro: >
+    intro: |
      name: Python
       
       level: 80%
@@ -106,7 +106,7 @@ projects:
       level: 70%
        
        
-quera: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
+#quera: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
     
   #  posts:
         #- time: June 2020
@@ -145,16 +145,16 @@ quera: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313
         # - time: 2017
         #   title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
-education:
-    - degree: Masters - Computer Engineering
-      university: Payam Noor University , Semnan, Iran
-      time: 2020 - current
-      details: |
+#education:
+   # - degree: Masters - Computer Engineering
+    #  university: Payam Noor University , Semnan, Iran
+   #   time: 2020 - current
+    #  details: |
      
-    - degree: diploma - Math and Physics
-      university: Shariati High School , Semnan , Iran
-      time: 2013 - current
-      details: |
+    #- degree: diploma - Math and Physics
+   #   university: Shariati High School , Semnan , Iran
+   #   time: 2013 - current
+    #  details: |
 
     #- degree: Internship (Master Thesis)
      # university: Tobii
