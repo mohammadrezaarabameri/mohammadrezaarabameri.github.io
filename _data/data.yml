@@ -93,6 +93,18 @@ projects:
      
       level: 60%
        
+      - name: java
+        level: 60%
+
+      - name: c++
+        level: 60%
+
+      - name: photoshop
+        level: 50%
+
+      - name: network+
+        level: 70%
+
 #quera: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
     
   #  posts:
