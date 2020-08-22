@@ -108,9 +108,9 @@ projects:
 
 #quera: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
     
-    posts:
-        - time: June 2020
-           title: Outstanding Reviewer at CVPR 2020
+   # posts:
+       # - time: June 2020
+         #  title: Outstanding Reviewer at CVPR 2020
 
         # - time: June 2020
          #  title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
