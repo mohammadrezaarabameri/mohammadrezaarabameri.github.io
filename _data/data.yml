@@ -71,15 +71,6 @@ news:
       
      quera: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
      
-about me:
-    title: About Me
-    intro: |
-     degree: Masters - Computer Engineering
-     
-      university: Payam Noor University , Semnan, Iran
-      
-      time: 2020 - current
-
       
 publications:
     title: languages
@@ -117,9 +108,9 @@ projects:
 
 #quera: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
     
-  #  posts:
-        #- time: June 2020
-          # title: Outstanding Reviewer at CVPR 2020
+    posts:
+        - time: June 2020
+           title: Outstanding Reviewer at CVPR 2020
 
         # - time: June 2020
          #  title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
@@ -234,11 +225,11 @@ projects:
     #    Master degree in Computer Engineering
 
 
-#experiences:
-    #- role: Lead Developer
-      #time: 2015 - Present
-      #company: Startup Hubs, San Francisco
-      #details: |
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         #Cum sociis natoque penatibus et magnis dis parturient montes,
