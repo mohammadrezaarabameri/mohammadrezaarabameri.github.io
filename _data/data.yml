@@ -225,11 +225,11 @@ projects:
     #    Master degree in Computer Engineering
 
 
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
+#experiences:
+    #- role: Lead Developer
+      #time: 2015 - Present
+     # company: Startup Hubs, San Francisco
+     # details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         #Cum sociis natoque penatibus et magnis dis parturient montes,
