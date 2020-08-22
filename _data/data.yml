@@ -50,15 +50,6 @@ sidebar:
      #Experienced Technical Support Specialist with a demonstrated history of working in the information technology and services industry. Skilled in Dynamics 365, Virtualization, Storage, Customer Service, and Microsoft Windows Server. Strong information technology professional with a Bachelor of Science (BS) focused in Computer Science from Shahid Beheshti University.
     # https://quera.ir/profile/faribampr
     
-about me:
-    title: About Me
-    intro: |
-     degree: Masters - Computer Engineering
-     
-      university: Payam Noor University , Semnan, Iran
-      
-      time: 2020 - current
-
 news:
     title: education
     intro: |
@@ -79,6 +70,16 @@ news:
       details: |
       
      quera: <a href="https://quera.ir/profile/mrameri313">quera.ir/profile/mrameri313</a>
+     
+about me:
+    title: About Me
+    intro: |
+     degree: Masters - Computer Engineering
+     
+      university: Payam Noor University , Semnan, Iran
+      
+      time: 2020 - current
+
       
 publications:
     title: languages
